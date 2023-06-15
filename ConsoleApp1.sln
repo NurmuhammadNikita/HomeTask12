@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{5921BD7E-3870-4171-8A07-E59CB3A48E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masala", "masala\masala.csproj", "{C0E185AD-57B8-4765-B5C9-A4BECC0AE7CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kutbhona", "kutbhona\kutbhona.csproj", "{F50CD83D-E23F-4B99-96D5-2C04C99DD1D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5921BD7E-3870-4171-8A07-E59CB3A48E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5921BD7E-3870-4171-8A07-E59CB3A48E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5921BD7E-3870-4171-8A07-E59CB3A48E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5921BD7E-3870-4171-8A07-E59CB3A48E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E185AD-57B8-4765-B5C9-A4BECC0AE7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E185AD-57B8-4765-B5C9-A4BECC0AE7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E185AD-57B8-4765-B5C9-A4BECC0AE7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E185AD-57B8-4765-B5C9-A4BECC0AE7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50CD83D-E23F-4B99-96D5-2C04C99DD1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50CD83D-E23F-4B99-96D5-2C04C99DD1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50CD83D-E23F-4B99-96D5-2C04C99DD1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50CD83D-E23F-4B99-96D5-2C04C99DD1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAD2208D-97E6-4B5C-967D-3338F391FE20}
+	EndGlobalSection
+EndGlobal
